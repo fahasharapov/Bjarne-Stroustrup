@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508484908 source:c:\c++ for git\reverse number\vectors\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

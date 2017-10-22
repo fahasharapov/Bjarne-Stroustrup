@@ -232,3 +232,10 @@ inline int randint(int min, int max) { return randint(max-min)+min; }
 inline double sqrt(int x) { return sqrt(double(x)); }	// to match C++0x
 
 #endif
+
+
+//Below line of code was added by me
+//to see if it works by just declaring 
+//square in .cpp file
+
+int square(int x) { return x*x; }
